@@ -1,0 +1,111 @@
+body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: white;
+}
+
+.cover-image {
+    width: 100%;
+    height: auto;
+}
+
+h1, h2 {
+    color: #333;
+text-align :center;
+}
+
+h3{
+color:#DBC488;
+}
+
+section {
+    padding: 1em 2em;
+    margin: 1em auto;
+    max-width: 800px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.talents-section {
+background: #fff;
+padding: 2em;
+margin: 1em;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+max-width: 1200px;
+width: 100%;
+}
+.talents-section h2 {
+text-align: center;
+color: #333;
+margin-bottom: 1.5em;
+}
+.box-container {
+display: flex;
+flex-wrap: wrap;
+gap: 1.5em;
+justify-content: center;
+}
+.box {
+background: #f9f9f9;
+padding: 1.5em;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+flex: 1;
+min-width: 250px;
+max-width: calc(25% - 1.5em);
+box-sizing: border-box;
+text-align: center;
+}
+.box i {
+font-size: 3em;
+font: #007bff;
+margin-bottom: 0.5em;
+}
+.box h3 {
+color: #333;
+margin-bottom: 0.5em;
+}
+.box p {
+/*background-color: #555;*/
+line-height: 1.6;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 1em;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    font: white;
+    /*position: fixed;*/
+    width: 100%;
+    bottom: 0;
+}
