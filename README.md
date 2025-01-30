@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/1538b56a-7cab-4676-b235-9d1645c349fe)
 # 🌐 Personal Blog Website
 
 Welcome to my personal blog! This project showcases my thoughts, experiences, and ideas through a beautifully designed and responsive website built using **HTML** and **CSS**.
@@ -16,27 +17,10 @@ Welcome to my personal blog! This project showcases my thoughts, experiences, an
 
 ---
 
-## 📸 Screenshots
-### **Homepage**
-![Homepage](https://via.placeholder.com/600x300)
-
-### **About Me Section**
-![About Me](https://via.placeholder.com/600x300)
-
----
 
 ## 🛠️ Technologies Used
 - **HTML5**: For content structure
-- **CSS3**: For styling and layout design
-- **Responsive Design Techniques** for mobile-first development
+- **CSS**: For styling and layout design
 
----
 
-## 📂 Folder Structure
-```plaintext
-.
-├── index.html      # Homepage
-├── about.html       # About Me page
-├── styles.css       # Global CSS file
-└── assets/          # Images and media
-
+Thank you for checking out!!
